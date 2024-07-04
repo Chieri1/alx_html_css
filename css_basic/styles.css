@@ -16,3 +16,18 @@ boby,main{
     flex: 1;
     overflow-y: auto;
  }
+ a{
+    display: block;
+    color: blue;
+    border:5px solid black;
+    width: 100;
+    margin-bottom: 20px;
+    
+ }
+ h1,h2,h3{
+    text-decoration: underline;
+    color: purple;
+ }
+ p{
+    font-style: italic;
+ }
