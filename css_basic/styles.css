@@ -3,6 +3,7 @@ boby,main{
 }
  body{
     flex-direction: column;
+    background-color: aliceblue;
  }
  main{
     flex-direction: row;
@@ -20,7 +21,8 @@ boby,main{
     display: block;
     color: blue;
     border:5px solid black;
-    width: 100;
+    width: 50;
+
     margin-bottom: 20px;
     
  }
