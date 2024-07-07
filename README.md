@@ -1,4 +1,4 @@
-# Get Schooled: Learn How to Smile
+# smileschool: Learn How to Smile
 
 Welcome to Get Schooled, where we believe everyone deserves to smile! Whether you're looking to brighten your day or master the art of grinning from ear to ear, you've come to the right place. Our tutorial website is designed to guide you through the ins and outs of smiling, offering techniques, exercises, and tips to help you achieve your happiest grin.
 ![project image](<../project img.jpg>)
