@@ -1,0 +1,142 @@
+/*color*/
+:root{
+    ----white:#FFFFFF
+    ----red:#FF6565   
+   }
+   *{
+       margin: 0;
+       padding: 0;
+       box-sizing: border-box;
+   }
+   /*----------header----------*/
+   
+   
+   body{
+       background-image:url(background\ img.jpeg);
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-position: top;
+       height: 800px; 
+       width: 1400px;
+       border: 1px;
+   }
+   #logo{
+       width: 161px;
+       height: 32px ;
+       margin-top: 29px;
+       margin-left: 66px;
+   }
+   nav ul{
+       list-style: none; 
+       display: flex;
+      padding-left: 930px;
+      padding-top: 37px;
+      
+   }
+   nav ul li{
+       margin-left: 20px;
+   }
+   nav ul li a{
+       font-size: Source Sans Pro;
+       color: #FFFFFF;
+       font: size 12px; ;
+   }
+   main{
+       color: #FFFFFF;
+       padding-top: 372px;
+       padding-left: 382px;
+   }
+   .first section{
+       font-family: source sans pro;
+   
+   }
+   .first h2{
+       font-size: 32px;
+       padding-left: 29px;
+       align-items: center;
+       color: #FFFFFF;
+   }
+   .first P{
+       font-size: 16px;
+       padding-top: 40px;
+       padding-left: 141px;
+       color: #FFFFFF;
+       align-items: center;
+   }
+   .second section{
+       align-items: center;
+   }
+   .button section{
+   
+   }
+   button{
+       color: #FFFFFF;
+       background-color: red;
+       height: 40px;
+       width: 150px; 
+       border-radius: 40px;
+       margin-top: 30px;
+       margin-left: 237px;
+       justify-items: center;
+   }
+   
+   .second-P{
+       font-family: source sans pro;
+       color: #FFFFFF;
+       font-size: 16px;
+       margin-top: 30px;
+       justify-items: center;
+       width: 637px;
+       height: 104px;
+   }
+   .What{
+    font-family: source sans pro;
+    margin-top: 10px;
+   }
+   .What h2{
+    color: black;
+    margin-left: 224px;
+    font-size: 32px;
+   }
+   .What p{
+    color: black;
+    font-size: 16px;
+    margin-top: 80px;
+    width: 637px;
+    height: 104px;
+    align-items: center;
+   }
+   .container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+   }
+   .item{
+    color: black;
+    margin: 10px;
+    padding: 20px;
+    
+   }
+   .item img{
+    width: 94.2px;
+    height: 65.36px;
+    top: 0.02px;
+   }
+   .item h3{
+    font-size: 18px;
+    margin-top: 5px;
+   }
+   .item p{
+    font-size: 14px;
+    width: 207px;
+height: 52px;
+margin-top: 5px;
+   }
+   #no{
+    position: relative;
+    top: 210px;
+    right:680px 
+   }
+
+
